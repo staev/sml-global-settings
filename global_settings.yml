@@ -1,3 +1,4 @@
 object_type: global_settings
 overrides:
-    xmla.auth.token.enabled: true
+    xmla.cube.lastDataUpdate.enabled: true
+    xmla.cube.lastDataUpdate.duration: 10 minutes
