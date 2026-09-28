@@ -1,4 +1,6 @@
 object_type: global_settings
 overrides:
-    xmla.cube.lastDataUpdate.enabled: true
+    xmla.cube.lastDataUpdate.enabled: false
     xmla.cube.lastDataUpdate.duration: 10 minutes
+    query.factless.ignoreIncidentalFilter: false
+    
